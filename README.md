@@ -1,7 +1,7 @@
-# :bulb: UsedGarden
-중고가든은 자바 콘솔로 구현한 중고 거래 및 관리 프로그램입니다.
-
-<img src="https://user-images.githubusercontent.com/77385338/104583164-29275180-56a4-11eb-90d8-54525f88e0cd.JPG">
+# :bulb: 중고 가든
+## 파일 입출력 기반 자바 콘솔 프로젝트
+### 기획 의도
+직거래와 안전 거래가 가능한 중고 거래 프로그램 구현
 
 
 ***
@@ -32,6 +32,10 @@
         <th colspan="6">사용 도구</th>
     </tr>  
     <tr>
+        <th>개발 플랫폼</th>
+        <th colspan="5">Windows10</th>
+    </tr>
+    <tr>
         <th>개발 언어</th>
         <th colspan="5">Java(JDK 1.8)</th>
     </tr>
@@ -47,7 +51,7 @@
 
 ***
 # :computer: Implementation
-아래는 프로젝트에서 구현을 맡은 부분입니다.
+### 아래는 프로젝트에서 구현을 맡은 부분입니다.
 <table>
   <tr>
     <th colspan="3">시작화면</th>
@@ -83,5 +87,3 @@
 </table>
 
 ***
-# :speech_balloon: Review
-<img src="https://user-images.githubusercontent.com/77385338/104589668-92f82900-56ad-11eb-82ef-970592fa35a2.JPG">
